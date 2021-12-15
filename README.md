@@ -8,7 +8,6 @@
 
 ## :paperclip: Contact
 > Email : wjdwodnr5452@naver.com <br>
-> Github: https://github.com/wjdwodnr545
 
 ## :paperclip: Projects
 ### 1. [IC_Mall](https://github.com/RowenKim/ICTeam.git) - github 주소

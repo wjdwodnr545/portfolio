@@ -19,7 +19,10 @@
 
 > 프로젝트 상세설명 - 정재욱 파트 <br>
 * 주요 개발 내용 <br>
-· 회원가입: vaildator 유효성검사, 아이디와 이메일 중복체크, 비밀번호와 비밀번호 확인 일치체크, 비밀번호 인코딩, 회원가입 DB 저장 및 기본권한 부여 <br>
-· 로그인: security 로그인 구현, UserLoginFailHandler 로그인 실패시 콘솔 알림 <br>
-
-
+· 회원가입 : vaildator 유효성검사, 아이디와 이메일 중복체크, 비밀번호와 비밀번호 확인 일치체크, 비밀번호 인코딩, user DB 저장 및 기본권한 부여 <br>
+· 로그인 : security 로그인 구현, UserLoginFailHandler 로그인 실패시 콘솔 알림 <br>
+· 마이페이지 : user DB 정보 불러오기, security 로그아웃 구현 <br>
+· 회원정보수정 : vaildator 유효성검사, 아이디와 이메일 중복체크, 비밀번호와 비밀번호 확인 일치체크, 비밀번호 인코딩, user DB 업데이트 <br>
+· 과일페이지 : jsoup을 활용한 11번가 과일 상품 크롤링 및 product DB 저장 <br>
+· 관리자 게시물 : security admin 권한만 접속 구현, 회원들이 작성 게시물 불러오기, 게시물 답변/수정/삭제 <br>
+· 관리자 유저관리 : security admin 권한만 접속 구현, 회원탈퇴 구현

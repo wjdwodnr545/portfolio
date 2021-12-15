@@ -31,4 +31,4 @@
 · 11번가 상품에서 크롤링 문제가 많았습니다. html 테그값을 불러오는 것이 계속 안돼서 구글링을 통해 jsoup으로 활용한 크롤링으로 문제 해결을 했습니다.
 
 
-### 2. [지문인식 금고]
+### 2. [지문인식 금고](https://docs.google.com/presentation/d/1OUPjWtLxqfLtzvV6dX-n_HPhOrjQtTvTi7220vNqsxE/edit?usp=sharing) - ppt 주소

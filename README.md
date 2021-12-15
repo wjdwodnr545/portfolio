@@ -3,11 +3,12 @@
 > 이름: 정재욱 <br>
 > 대학교: 나사렛대학교 <br>
 > 전공: 디지털콘텐츠 <br>
-> 학점: 3.94
+> 
+> 창의적이고 도전을 좋아하며, 소통을 중요시 하는 정재욱입니다!
 
 ## :paperclip: Contact
 > Email : wjdwodnr5452@naver.com <br>
-> Github:
+> Github: https://github.com/wjdwodnr545
 
 ## :paperclip: Projects
 ### 1. [IC_Mall](https://github.com/RowenKim/ICTeam.git) - github 주소
@@ -32,3 +33,13 @@
 
 
 ### 2. [지문인식 금고](https://docs.google.com/presentation/d/1OUPjWtLxqfLtzvV6dX-n_HPhOrjQtTvTi7220vNqsxE/edit?usp=sharing) - ppt 주소
+> 지문인식금고 ( 팀프로젝트 )
+* 개발 기간: 20.09.20 ~ 11.23
+* 참여 인원: 2명
+* 역할 : 키패드 구현, 지문인식 구현, 서브 모터 구현
+* 사용기술 : c언어, 아두이노
+* 주요 개발 내용 <br>
+· 키패드 행과 열 키패드 설정 <br>
+· 등록된 비밀번호 일치시 지문인식 실행 <br>
+· 라이브러리 통한 지문등록 <br>
+· 키패드와 지문 일치시 금고열림 <br>

@@ -9,8 +9,9 @@
 > Email : wjdwodnr5452@naver.com <br>
 
 ## :paperclip: Projects
+### [ppt](https://docs.google.com/presentation/d/1OUPjWtLxqfLtzvV6dX-n_HPhOrjQtTvTi7220vNqsxE/edit?usp=sharing) - 프로젝트 상세설명과 자격증 링크입니다
 ### 1. [IC_Mall](https://github.com/RowenKim/ICTeam.git) - github 주소
-### [ppt](https://docs.google.com/presentation/d/1OUPjWtLxqfLtzvV6dX-n_HPhOrjQtTvTi7220vNqsxE/edit?usp=sharing) - ppt 주소(자격증 포함)
+
 > 식품판매 쇼핑몰( 팀프로젝트)
 * 개발 기간: 2021.09.18 ~ 10.14
 * 참여 인원: 4명
